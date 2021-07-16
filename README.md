@@ -1,2 +1,2 @@
 
-This project is done by java and kotlin
+This project is done using java and kotlin
